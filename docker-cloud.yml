@@ -1,6 +1,6 @@
 web:
   # Replace username/repo:tag with your name and image details.
-  image: 'trekhleb/hello-docker:latest'
+  image: 'wiserwires/hello-docker:latest'
 
   # Redeploy web app in case if it's image is updated.
   autoredeploy: true
